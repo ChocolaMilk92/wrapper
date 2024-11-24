@@ -1,6 +1,6 @@
 ## Wrapper
 
-Setting up an Android emulator to decrypt ALAC files is unnecessary. All files are anonymous.
+Setting up an Android emulator to decrypt ALAC files is unnecessary. All files are anonymous.\
 Credit to [@zhaarey](https://github.com/zhaarey) for AM reverse engineering
 
 ### Recommended Environment
